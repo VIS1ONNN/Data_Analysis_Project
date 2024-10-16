@@ -7,7 +7,7 @@ I have completed several data analysis projects to enhance my skills. These proj
 
 ## R
 
- - [Order Pizza Bot]()
+ - [Order Pizza Chat Bot]()
  - [Rock, Paper, Scissors]()
  - [Restaurant Management System]()
  - [Data Transformation with dplyr]()
