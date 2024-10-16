@@ -3,7 +3,7 @@ I have completed several data analysis projects to enhance my skills. These proj
 
 ## SQL
 
- - [Restaurant Management System](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Restaurant Management System](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/SQL/Restaurant%20Management%20System.sql)
 
 ## R
 
