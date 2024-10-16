@@ -95,7 +95,7 @@
 > dbDisconnect(conn)
 
 
- > ## you can generate more transactions by
+> ## you can generate more transactions by
   transactions <- data.frame(
   transactions_id = 1:20,
   order_date = c(sample(seq(as.Date('yyyy-mm-dd'),as.Date('yyyy-mm-dd'), by="day"),20,replace = T)),
