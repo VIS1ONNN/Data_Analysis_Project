@@ -70,3 +70,31 @@ if (!is.null(choose_food) | !is.null(choose_drink)){
 }
 
 ordpz()
+
+# result
+> ordpz()
+[1] "Welcome to Pizza Picasso! We serve delicious, creative pizzas"
+[2] "Here is a Main menu and Drink"                                
+# A tibble: 5 × 2
+  Name               Price.THB
+  <chr>                  <dbl>
+1 Margherita               199
+2 Pepperoni Paradise       249
+3 Hawaiian Delight         219
+4 Carnivore's Dream        299
+5 Veggie Fiesta            229
+Please choose menu (or 'n' to skip): Margherita
+[1] "your pizza is gonna be Margherita"
+# A tibble: 3 × 2
+  Name                              Price.THB
+  <chr>                                 <dbl>
+1 Soft Drinks (Coke, Sprite, Fanta)        35
+2 Iced Tea                                 45
+3 Fruit Juice                              49
+What kind of drinks do you want ? (or 'n' to skip): Iced Tea
+[1] "and your drink is gonna be Iced Tea"
+[1] "check bill"
+[1] "your food is Margherita for 199 THB"
+[1] "and your drink is gonna be Iced Tea for 45 THB"
+[1] "total 244 THB"
+> 
