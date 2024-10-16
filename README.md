@@ -7,9 +7,9 @@ I have completed several data analysis projects to enhance my skills. These proj
 
 ## R
 
- - [Order Pizza Chat Bot]()
- - [Rock, Paper, Scissors]()
- - [Restaurant Management System]()
+ - [Order Pizza Chat Bot](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/Order%20Pizza%20Chat%20Bot.R)
+ - [Rock, Paper, Scissors](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/Rock%2C%20Paper%2C%20Scissors.R)
+ - [GetQuery with R](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/GetQuery%20with%20R.R)
  - [Data Transformation with dplyr]()
  - [Data Visualization]()
  - [ML: Titanic Survival Rate]()
