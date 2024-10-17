@@ -13,7 +13,7 @@ I have completed several data analysis projects to enhance my skills. These proj
  - [Data Transformation with dplyr](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/5%20Dplyr%20Queries.R)
  - [Visualizing Data with ggplot2](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/Visualizing%20Data%20with%20ggplot2.pdf)
  - [ML: Titanic Survival Rate Prediction](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/ML%3A%20Titanic%20Survival%20Rate.R)
- - [ML: Diabetes Prediction in Indian Population](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/ML:%20Diabetes%20Prediction%20in%20Indian%20Population.R)
+ - [ML: Diabetes Prediction in Indian Population (caret, threshold setup)](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/ML:%20Diabetes%20Prediction%20in%20Indian%20Population.R)
 
 ## Python
 
