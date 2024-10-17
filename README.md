@@ -22,4 +22,4 @@ I have completed several data analysis projects to enhance my skills. These proj
 
 ## Dashboard
  - [Looker: Sales Performance Dashboard]()
- - [tableau: Sales Performance Dashboard]()
+ - [Tableau: Sales Performance Dashboard]()
