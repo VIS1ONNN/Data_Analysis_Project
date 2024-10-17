@@ -11,7 +11,7 @@ I have completed several data analysis projects to enhance my skills. These proj
  - [Rock, Paper, Scissors](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/Rock%2C%20Paper%2C%20Scissors.R)
  - [GetQuery with R](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/Querying%20databases%20with%20R.R)
  - [Data Transformation with dplyr](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/5%20Dplyr%20Queries.R)
- - [Data Visualization]()
+ - [Visualizing Data with ggplot2](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/R/Visualizing%20Data%20with%20ggplot2.pdf)
  - [ML: Titanic Survival Rate]()
  - [ML: Indians Diabetes Model]()
 
