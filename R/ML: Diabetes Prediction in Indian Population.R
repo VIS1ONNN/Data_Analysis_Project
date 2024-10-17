@@ -117,5 +117,27 @@ logit_model$ finalModel
 # step 6. Save Model
 saveRDS(logit_model,"logistic_reg.RDS")
 
+# bonus ถ้าเราไม่ทราบว่าควรใช้ตัวแปรต้นเป็น column ไหนบ้าง เราสามารถเริ่มจากการใช้ function varImp เพื่อดูค่า Correlation Coefficient ที่ส่งผลต่อตัวแปรตาม (y) ได้ 
+logit_model <- train(diabetes ~ .,
+                     data = prep$train,
+                     method = "glm",
+                     trControl = ctrl)
+                     
+> varImp(logit_model)
+
+# glm variable importance
+
+#         Overall
+# glucose   100.00
+# mass       77.21
+# pregnant   37.29
+# pedigree   27.19
+# age        22.19
+# insulin    17.90
+# pressure   17.31
+# triceps     0.00
+
+# จากคำตอบตรงนี้เราจะเห็นว่า triceps ไม่ส่งผลกับ pos diabetes อย่างมีนัยยะสำคัญทำให้ตอน train model ผมเลือกที่จะตัดตัวแปรนี้ออกไปครับ
+
 
 
