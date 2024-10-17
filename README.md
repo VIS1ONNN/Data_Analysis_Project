@@ -16,5 +16,10 @@ I have completed several data analysis projects to enhance my skills. These proj
  - [ML: Indians Diabetes Model]()
 
 ## Python
+
  - [Pao Ying Chub]()
  - [Analyzing Sales Data]()
+
+## Dashboard
+ - [Looker: Sales Performance Dashboard]()
+ - [tableau: Sales Performance Dashboard]()
