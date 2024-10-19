@@ -10,6 +10,8 @@
 
 [Pima-Indians-Diabetes-Dataset](https://github.com/npradaschnor/Pima-Indians-Diabetes-Dataset/blob/master/diabetes.csv)
 
+[diamonds](https://ggplot2.tidyverse.org/reference/diamonds.html)
+
 # Dynamic Dashboard
 
 [Looker: Sales Performance Dashboard](https://lookerstudio.google.com/u/0/reporting/c102c28e-6b63-4ac1-9057-a13aa940010d/page/58UBE)
