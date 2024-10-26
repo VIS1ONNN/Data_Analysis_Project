@@ -20,7 +20,7 @@ I have completed several data analysis projects to enhance my skills. These proj
  - [Pao Ying Chub](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/Python/Pao%20Ying%20Chub.py)
  - [Analyzing Sales Data](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/Python/Analyzing%20Sales%20Data.py)
  - [Create ATM Simulator Using OOP](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/Python/ATM%20Simulator%20Using%20OOP.py)
- - [Basic Request API data using Python](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/Python/Basic%20Request%20API.py)
+ - [Basic Request API](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/Python/Basic%20Request%20API.py)
 
 ## Dashboard
  - [Looker: Sales Performance Dashboard](https://github.com/VIS1ONNN/Data_Analysis_Project/blob/main/Dashboard/Looker_Dashboard.pdf)
